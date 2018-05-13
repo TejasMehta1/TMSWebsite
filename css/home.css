@@ -1,0 +1,15 @@
+.nav-item {
+  font-size: 0.75rem;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+iframe {
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
+}
